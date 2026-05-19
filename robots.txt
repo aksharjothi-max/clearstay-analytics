@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aksharjothi-max.github.io/clearstay-analytics/sitemap.xml
